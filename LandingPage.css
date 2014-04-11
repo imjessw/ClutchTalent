@@ -1,6 +1,7 @@
 
 body{
-	background-color: white
+	background-color: white;
+	font-family: 'Allerta', sans-serif;
 }
 
 
@@ -9,15 +10,28 @@ body{
 	margin: 100px auto;
 }
 
-.comingSoon{
+.cName{
+	font-size: 30px;
+}
 
+.comingSoon{
+	font-size: 50px;
+	margin-bottom: 75px;
 }
 
 .name{
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top: 25px;
 
+}
+
+.email{
+	padding-bottom: 25px;
 }
 
 a{
 	text-decoration: none;
 	color: black;
+
 }
